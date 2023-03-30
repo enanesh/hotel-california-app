@@ -10,7 +10,7 @@
  
 Our group found a common interest in traveling, and so as a result we created The Hotel California website that provides hotel guests with a quick and easy way to create reservations and an easy  check in and out of their rooms. The website also provides guest reviews as well as information about nearby activities.
 
-Link to deployed app: https://hotel-california-app.herokuapp.com/
+Link to deployed app:https://hotel-california24.herokuapp.com/
 
 
 
